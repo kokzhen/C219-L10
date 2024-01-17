@@ -1,0 +1,89 @@
+.fullpage {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section p {
+    color: antiquewhite;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    /* Add this line to make them display in a row */
+    margin-right: 40px;
+    /* Optional: Add some margin between them */
+    margin-bottom: 100px;
+    margin-left: 30px;
+}
+
+
+#first {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+
+/* Add some styles to the animated numbers */
+.animated-number {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    /* Choose your desired color */
+}
+
+
+
+p.info-block {
+    color: white;
+    /* Set your desired text color */
+    font-size: 20px;
+    /* Set your desired font size */
+    display: block;
+    margin-bottom: 10px;
+    width: 80%;
+    /* Set your desired width */
+    word-wrap: break-word;
+    /* Allow long words to break and wrap onto the next line */
+}
+
+.section h2 {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+
+.custom-img {
+    width: 80%;
+    /* Set your desired width */
+
+}
+
+p.infome {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+#totalCases {
+    display: block;
+}
+
+#inHospital {
+    display: block;
+}
+
+#totalDeaths {
+    display: block;
+}
+
+
+#third {
+    
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section h5 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 100px;
+}
